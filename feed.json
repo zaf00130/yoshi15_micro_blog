@@ -36,8 +36,8 @@
 			{
 				"id": "http://yoshi15.micro.blog/2022/02/09/this-is-bernice.html",
 				"title": "Bernice",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/b6c698eb77.jpg\" width=\"299\" height=\"300\" alt=\"Bernice\" /><img src=\"uploads/2022/742655d4a1.jpg\" width=\"300\" height=\"300\" alt=\"Bernice\" /><img src=\"uploads/2022/55f20fa425.jpg\" width=\"300\" height=\"300\" alt=\"Bernice\" />\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n<img src=\"uploads/2022/b6c698eb77.jpg\" width=\"300\" height=\"300\" alt=\"Bernice\" />\n<img src=\"uploads/2022/742655d4a1.jpg\" width=\"300\" height=\"300\" alt=\"Bernice\" />\n<img src=\"uploads/2022/55f20fa425.jpg\"width=\"300\" height=\"300\" alt=\"Bernice\" />\n",
 				"date_published": "2022-02-10T18:31:00-04:00",
 				"url": "https://blog.zcryp.to/2022/02/09/this-is-bernice.html",
 				"tags": ["pictures"]
